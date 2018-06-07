@@ -63,6 +63,7 @@ feathercore.deps.bnjs = require('bn.js');
 feathercore.deps.bs58 = require('bs58');
 feathercore.deps.Buffer = Buffer;
 feathercore.deps.elliptic = require('elliptic');
+feathercore.deps.scryptsy = require('scryptsy');
 feathercore.deps._ = require('lodash');
 
 // Internal usage, exposed for testing/advanced tweaking
