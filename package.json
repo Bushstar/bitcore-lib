@@ -1,6 +1,6 @@
 {
   "name": "feathercore-lib",
-  "version": "0.13.9",
+  "version": "0.13.19",
   "description": "A pure and powerful JavaScript Feathercoin library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
