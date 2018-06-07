@@ -84,6 +84,7 @@
     "request": "browser-request"
   },
   "dependencies": {
+    "multi-hashing-plus": "^1.0.0",
     "bn.js": "=2.0.4",
     "bs58": "=2.0.0",
     "buffer-compare": "=1.0.0",
